@@ -1,0 +1,14 @@
+body{
+    background-color: silver
+}
+h1{
+    font-family: cursive;
+    color: firebrick
+}
+div{
+    width: 450px;
+    height: 350px;
+   margin:inherit;
+    border: solid 2px;
+    background-color: burlywood
+}
